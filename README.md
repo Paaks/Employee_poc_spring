@@ -19,6 +19,11 @@ UI is designed on Angular framework with material design responsive screen. Serv
 •	Tomcat
 •	Angular Webpack.
 
+
+## Upload.
+
+Use the template employee_template_to_upload.xlsx file to do bulk upload of employees. 
+
 ## Development server
 
 Run main class to start up embeded Tomcat server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
@@ -27,4 +32,5 @@ Run main class to start up embeded Tomcat server. Navigate to `http://localhost:
 ## Build
 
 Run `maven` command to build the project. The build artifacts will be stored in the `target/` directory.
+
 
