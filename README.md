@@ -22,7 +22,7 @@ UI is designed on Angular framework with material design responsive screen. Serv
 
 ## Upload.
 
-Use the template employee_template_to_upload.xlsx file to do bulk upload of employees. 
+Use the template `employee_template_to_upload.xlsx` file to do bulk upload of employees. 
 
 ## Development server
 
